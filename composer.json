@@ -1,5 +1,5 @@
 {
-    "name": "haxibiao/cos-php-sdk-v5",
+    "name": "haxibiao/cos-sdk",
     "description": "PHP SDK for QCloud COS",
     "keywords": [
         "qcloud", "cos", "php"
